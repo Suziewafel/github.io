@@ -1,0 +1,10 @@
+body {
+    background-color: cornflowerblue;
+    display: grid;
+}
+
+.yee {
+background-color: chocolate;
+grid-column-start: 1;
+grid-column-end: 2;
+}
